@@ -1,0 +1,39 @@
+# API Keys & Secrets — NEVER commit these
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# ML model files (large, regenerate with train_models.py)
+*.pkl
+
+# Generated outputs
+track1/backened/reels_output/
+track2/backend/reels_output/
+reels_output/
+track1/backened/influencer_dataset.csv
+track1/backened/influencer_dataset.xlsx
+track1/backened/real_influencers.csv
+track1/backened/real_influencers.xlsx
+track1/backened/feedback_data.json
+track1/backened/alerts.json
+track1/backened/model_comparison.json
+track2/backend/trends_output.json
+track2/backend/scripts_output.json
+track2/backend/virality_output.json
+track2/backend/reels_output.json
+track2/backend/instagram_corpus.pkl
+
+# Temp / debug files
+check_imagen.py
+debug_gemini.py
+test_imagen4.py
+inspect_dataset.py
+
+# OS
+.DS_Store
+Thumbs.db

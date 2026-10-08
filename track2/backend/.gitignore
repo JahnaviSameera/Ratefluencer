@@ -1,0 +1,27 @@
+# Environment
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+
+# Output files (large / generated)
+reels_output/
+trends_output.json
+scripts_output.json
+virality_output.json
+reels_output.json
+test_imagen*.png
+test_gemini_img.png
+debug_gemini.py
+check_imagen.py
+test_imagen4.py
+
+# Node / frontend deps
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db

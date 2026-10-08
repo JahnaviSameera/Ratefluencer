@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2026-05-31T06:06:14.740557+00:00",
+    "platform": "instagram",
+    "trend_phrase": "ai agents",
+    "niche": "artificial intelligence",
+    "urgency": "breaking",
+    "predicted_score": 74.6,
+    "real_label": 88.3,
+    "delta": 13.7,
+    "actual": {
+      "views": 45200,
+      "likes": 3100,
+      "shares": 420,
+      "saves": 890
+    },
+    "script": {
+      "hook": "AI agents just made 90% of SaaS tools obsolete",
+      "story": "test",
+      "insights": [],
+      "cta": "Follow now",
+      "instagram_caption": "AI agents are here",
+      "instagram_hashtags": [
+        "#AI",
+        "#agents"
+      ],
+      "linkedin_post": "test",
+      "thumbnail_title": "AI Agents",
+      "content_angle": "show what agent does",
+      "trend_score": 87,
+      "trend_urgency": "breaking",
+      "acceleration": 0,
+      "niche": "artificial intelligence"
+    }
+  }
+]
